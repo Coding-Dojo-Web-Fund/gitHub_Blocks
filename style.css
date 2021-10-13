@@ -1,0 +1,50 @@
+.blue{
+    background-color: aqua;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    padding: 20px;
+}
+.pink{
+    background-color: pink;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.white{
+    background-color: papayawhip;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    padding: 20px;
+}
+img baracktocat.jpg{
+    margin-right: 20px;
+    height: 200px;
+}
+img codercat.jpg{
+    margin-right: 20px;
+    height: 200px;
+}
+img defunktocat.jfif{
+    height: 200px;
+}
+img jean-luc-picat.jpg{
+    height: 200px;
+    width: 200px;
+}
+img justicetocat.jpg{
+    height: 200px;
+    width: 200px;
+}
+img oktobercat.png{
+    height: 200px;
+}
+img Sentrytocat_octodex.jpg{
+    height: 200px;
+}
+img topguntocat.png{
+    height: 200px;
+}
